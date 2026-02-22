@@ -114,7 +114,7 @@ def main():
         elif wrong_guesses >= len(hangman_art) - 1:
             display_man(wrong_guesses)
             display_answer(answer)
-            print("YOU LOSE!preeti mota lenda haii💀")
+            print("YOU LOSE!💀")
             is_running = False
          
 if __name__ == '__main__':
